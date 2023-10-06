@@ -1,0 +1,1 @@
+remove words starting with ', -, /, ^, 
